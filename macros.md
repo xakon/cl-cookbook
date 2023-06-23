@@ -121,7 +121,7 @@ where the macro was expanded. Then type the usual ``C-c C-k``
 (``slime-compile-and-load-file``) to recompile all of them.
 
 
-### Macros VS functions
+### Macros vs. functions
 
 Our macro is very close to the following function definition:
 
